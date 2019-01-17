@@ -1,0 +1,6 @@
+C:\Subversion\Teste_AutoMapper\Teste.Entidades\bin\Debug\Teste.Entidades.dll
+C:\Subversion\Teste_AutoMapper\Teste.Entidades\bin\Debug\Teste.Entidades.pdb
+C:\Subversion\Teste_AutoMapper\Teste.Entidades\obj\Debug\Teste.Entidades.csprojAssemblyReference.cache
+C:\Subversion\Teste_AutoMapper\Teste.Entidades\obj\Debug\Teste.Entidades.csproj.CoreCompileInputs.cache
+C:\Subversion\Teste_AutoMapper\Teste.Entidades\obj\Debug\Teste.Entidades.dll
+C:\Subversion\Teste_AutoMapper\Teste.Entidades\obj\Debug\Teste.Entidades.pdb
